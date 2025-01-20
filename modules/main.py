@@ -96,8 +96,6 @@ image_urls = [
     "https://tinypic.host/images/2025/01/10/Purvi-Cid.th.jpeg",
     # Add more image URLs as needed
 ]
-
-
     # Start the bot
     await start_bot()
 
